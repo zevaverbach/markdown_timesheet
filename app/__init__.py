@@ -1,2 +1,2 @@
 name = 'markdown_timesheet'
-__version__ = '0.04'
+__version__ = '0.05'
