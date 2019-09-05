@@ -10,6 +10,7 @@ twine = "*"
 pytest = "*"
 python-dateutil = "*"
 click = "*"
+markdown-timesheet = {editable = true,path = "."}
 
 [requires]
 python_version = "3.7"
