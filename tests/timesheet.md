@@ -10,7 +10,7 @@ documents.
 TOTAL: 430 minutes
 
 ## 9:45-10:15
-Researching and answering Evgeny's question about Mailwizz, SES, and email metrics reporting.
+Researching and answering client's question about Mailwizz, SES, and email metrics reporting.
 
 ## 10:50-12:54
 Step 3: Making a Jinja template for the newsletter.
@@ -35,7 +35,7 @@ Step 6 and 7: Make dummy allocation list and write a function to send a rendered
   - making buckets on my own account (not Syllabus) for testing
 
 ## 16:38-16:56
-  - writing to Evgeny to update about rendering from templates
+  - writing to client to update about rendering from templates
 
 ## 16:56-17:05
   Step 7
