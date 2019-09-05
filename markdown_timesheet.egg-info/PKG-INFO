@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: markdown-timesheet
+Version: 0.1.7
+Summary: A quick way to add up time entries in a markdown document.
+Home-page: https://github.com/zevaverbach/markdown_timesheet
+Author: Zev Averbach
+Author-email: zev@averba.ch
+License: MIT license
+Description: ...
+        
+Keywords: markdown timesheet
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7

@@ -1,0 +1,12 @@
+README.rst
+setup.cfg
+setup.py
+app/__init__.py
+app/add.py
+app/cli.py
+markdown_timesheet.egg-info/PKG-INFO
+markdown_timesheet.egg-info/SOURCES.txt
+markdown_timesheet.egg-info/dependency_links.txt
+markdown_timesheet.egg-info/entry_points.txt
+markdown_timesheet.egg-info/not-zip-safe
+markdown_timesheet.egg-info/top_level.txt
