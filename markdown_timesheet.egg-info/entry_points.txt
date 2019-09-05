@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        add=app.cli:cli
-    
