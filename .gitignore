@@ -1,3 +1,5 @@
 setup.cfg
 *egg-info
 Pipfile.lock
+dist/
+build/
