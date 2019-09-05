@@ -37,6 +37,6 @@ setup(
         add=app.cli:cli
     """,
     url="https://github.com/zevaverbach/markdown_timesheet",
-    version="0.05",
+    version="0.06",
     zip_safe=False,
 )
