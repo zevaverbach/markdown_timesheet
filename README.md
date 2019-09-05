@@ -2,7 +2,12 @@
 
 A command line interface to total up the time entries in a markdown file.
 
-# Usage
+## Installation
+
+```
+pip install markdown_timesheet
+```
+## Usage
 
 Given a `timesheet.md` like so:
 
@@ -26,8 +31,3 @@ $ add timesheet.md
 10
 ```
 
-# Installation
-
-```
-pip install markdown_timesheet
-```
