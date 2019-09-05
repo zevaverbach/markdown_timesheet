@@ -22,7 +22,7 @@ setup(
         "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
     ],
-    description="A quick way to add up time entries in a markdown document.",
+    description="CLI to add up time entries in a Markdown file.",
     license="MIT license",
     long_description=readme,
     long_description_content_type="text/markdown",
@@ -37,6 +37,6 @@ setup(
         add=app.cli:cli
     """,
     url="https://github.com/zevaverbach/markdown_timesheet",
-    version="0.02",
+    version="0.04",
     zip_safe=False,
 )

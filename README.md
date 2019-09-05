@@ -5,7 +5,7 @@ A command line interface to total up the time entries in a markdown file.
 ## Usage
 
 ```
-$ pip install markdown_timesheet
+$ pip install markdown-timesheet
 $ cat timesheet.md
 
 # 5 Sep 2019
