@@ -5,7 +5,7 @@
 
 from setuptools import setup, find_packages
 
-with open("README.rst") as readme_file:
+with open("README.md") as readme_file:
     readme = readme_file.read()
 
 test_requirements = ["pytest"]
@@ -25,6 +25,7 @@ setup(
     description="A quick way to add up time entries in a markdown document.",
     license="MIT license",
     long_description=readme,
+    long_description_content_type="text/markdown",
     include_package_data=True,
     keywords="markdown timesheet",
     name="markdown_timesheet",
@@ -36,6 +37,6 @@ setup(
         add=app.cli:cli
     """,
     url="https://github.com/zevaverbach/markdown_timesheet",
-    version="0.1.7",
+    version="0.01",
     zip_safe=False,
 )
