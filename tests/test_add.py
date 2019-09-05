@@ -9,7 +9,7 @@ from app.add import (
     parse_time,
     subtract_times,
 )
-from config import SAMPLE_TIMESHEET_PATH
+from app.config import SAMPLE_TIMESHEET_PATH
 
 
 @fixture

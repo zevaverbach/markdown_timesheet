@@ -2,7 +2,7 @@ from datetime import datetime, date, time
 from dateutil import parser
 from typing import List, Union, Tuple
 
-from types_ import Minutes
+from app.types_ import Minutes
 
 
 def subtract_times(first: time, second: time) -> Minutes:
